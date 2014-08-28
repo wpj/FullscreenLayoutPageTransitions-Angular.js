@@ -6,3 +6,5 @@ A fork of [@codrops](https://github.com/codrops)' awesome full-screen layout wit
 This responsive layout is based on an initial grid of four boxes. Once a box is clicked, it gets resized to fullscreen and the other boxes scale down and fade out.
 
 To run the example, clone the repo and run 'gulp build' to convert Sass and compile the build directory.
+
+[demo](http://plnkr.co/edit/Z4O17KYQp2NUeNYvstgi?p=preview)
